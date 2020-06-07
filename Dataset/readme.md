@@ -8,5 +8,5 @@ pytorch+win10
      -3  
      -...  
 ```
-2、运行label.py为数据集生成.txt格式的标签文件，包含目录和类别（适用于win10下\\，Ubuntu下自行修改文件）   
+2、运行label.py为数据集生成.txt格式的标签文件，包含目录和类别（适用于win10下,目录为\\\，Ubuntu下自行修改文件）   
 3、build_dataset为数据集的使用方法  
