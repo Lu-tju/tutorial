@@ -1,3 +1,5 @@
+# pytorch建立自己的数据集
+
 环境：pytorch+win10  
 
 1、将图片文件夹（class）存到在当前工程(project)目录下，并按类别分开（1、2、3）：  
