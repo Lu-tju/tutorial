@@ -6,3 +6,6 @@
 提取码：7azk
 
 来自https://gitee.com/hotdark/u_net_liver
+
+例如：
+![A](https://github.com/Lu-tju/tutorial/blob/master/U_Net/data/val/000_mask.png)
